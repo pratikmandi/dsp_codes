@@ -8,4 +8,4 @@ figure;
 stem(h_hamming);
 xlabel('sample');
 ylabel('Amplitude');
-title('Impure Resonance of FIR filter using hamming window');
+title('Impulse Resonance of FIR filter using hamming window');
